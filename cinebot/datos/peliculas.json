@@ -1,0 +1,7 @@
+[
+    {"id": 1, "titulo": "Matrix", "genero": "ciencia ficcion", "rating": 9.1, "anio": 1999, "director": "Wachowski"},
+    {"id": 2, "titulo": "Inception", "genero": "ciencia ficcion", "rating": 9.0, "anio": 2010, "director": "Nolan"},
+    {"id": 3, "titulo": "Toy Story", "genero": "animacion", "rating": 8.5, "anio": 1995, "director": "Lasseter"},
+    {"id": 4, "titulo": "El padrino", "genero": "drama", "rating": 9.5, "anio": 1972, "director": "Coppola"},
+    {"id": 5, "titulo": "Interstellar", "genero": "ciencia ficcion", "rating": 8.9, "anio": 2014, "director": "Nolan"}
+]
